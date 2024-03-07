@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+body {
+    margin: 0;
+    font-family: Georgia, Helvetica, sans-serif;
+}
+
+.main-container {
+    padding: 20px;
+    background-color: #f4f4f4; /* Light gray background color */
+}
+
+.testimonial {
+    padding: 15px;
+    border: 1px solid #ccc; /* Light gray border */
+    background-color: #fff; /* White background color */
+    margin-bottom: 20px; /* Add space between testimonials */
+}
+
+.text {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.author {
+    text-align: right;
+    font-style: italic;
+    color: #555; /* Dark gray text color for the author's name */
+}
